@@ -15,3 +15,6 @@ Display current directory contents, including hidden files (starting with .). Us
 
 ## 5-listfilesdigitonly:
 Display current directory contents (long, hidden, all).
+
+## 6-firstdirectory:
+Create "/tmp/my_first_directory" directory.
