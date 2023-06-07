@@ -24,3 +24,6 @@ Move the file "/tmp/betty" to "/tmp/my_first_directoty/betty".
 
 ## 8-firstdelete:
 Delete "/tmp/betty" file.
+
+## 9-firstdirdeletion:
+Delete "/tmp/my_first_directory" directory.
