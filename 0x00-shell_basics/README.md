@@ -27,3 +27,6 @@ Delete "/tmp/betty" file.
 
 ## 9-firstdirdeletion:
 Delete "/tmp/my_first_directory" directory.
+
+## 10-back:
+Changes the working directory to the previous one.
