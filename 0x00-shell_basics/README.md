@@ -36,3 +36,6 @@ Lists all files (even ones with names beginning with a period character, which a
 
 ## 12-file_type:
 Prints the type of the file named iamafile.
+
+## 13-symbolic_link:
+Create a symbolic link to /bin/ls, named __ls__.
