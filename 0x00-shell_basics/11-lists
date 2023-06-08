@@ -1,2 +1,5 @@
 #!/bin/bash
-ls -al && cd - && ls -al && ls /boot -al
+ls -al
+cd -
+ls -al
+ls /boot -al
