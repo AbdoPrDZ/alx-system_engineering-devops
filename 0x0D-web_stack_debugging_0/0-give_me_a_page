@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+echo "ServerName localhost" >> /etc/apache2.conf
+service apache2 start
+cp /etc/passwd /tmp/
+echo OK > /tmp/isworking
